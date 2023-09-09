@@ -1,0 +1,31 @@
+.Heading{
+    margin-left:650px;
+    color:#6c7b7b;
+   
+    width: 400px;
+    
+}
+.calc{
+    width:400px;
+    height: 500px;
+    background:#6c7b7b;
+    margin-left:650px;
+    margin-top: 25px;
+    }
+#screen{
+    
+    width: 85%;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 18px;
+    pointer-events:none;
+}
+.button{
+    width: 60px;
+    height:50px;
+    color:black;
+    margin-left:30px;
+    margin-top:30px;
+    background: rgb(169, 94, 94);
+}
+
